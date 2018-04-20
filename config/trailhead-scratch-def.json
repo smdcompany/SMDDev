@@ -1,0 +1,12 @@
+{
+  "orgName": "SMD Company",
+  "country": "US",
+  "edition": "Developer",
+  "description": "Trailhead scratch org",
+  "hasSampleData": "true",
+  "features": ["API", "AuthorApex", "CustomApps", "CustomTabs", "DebugApex", "ForceComPlatform", "LightningSalesConsole", "LightningServiceConsole", "ServiceCloud", "Sites"],
+  "orgPreferences":{
+    "enabled":["ChatterEnabled", "NetworksEnabled", "S1DesktopEnabled", "IsKnowledgeEnabled", "IsLiveAgentEnabled"],
+    "disabled":[]
+  }
+}

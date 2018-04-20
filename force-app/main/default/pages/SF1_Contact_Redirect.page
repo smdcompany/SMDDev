@@ -1,0 +1,6 @@
+<apex:page showHeader="false" sidebar="false" docType="html-5.0" controller="SF1_Redirect_Controller" action="{!getContact}">
+
+    <!-- Empty page that only exists to replicate the "New Contact Profile" button from Contact into Salesforce1 -->
+    <apex:pageMessages />
+
+</apex:page>

@@ -1,0 +1,22 @@
+{
+  "orgName": "smdtraildev",
+  "country": "US",
+  "username": "sdykstra@smdtraildev.com",
+  "adminEmail": "sdykstra@bridgercomputing.com",
+  "edition": "Developer",
+  "features": "API;AuthorApex;Communities;CustomApps;CustomTabs;ForceComPlatform;ServiceCloud;Sites",
+  "orgPreferences": {
+    "enabled": [
+      "ChatterEnabled",
+      "NetworksEnabled",
+      "S1DesktopEnabled",
+      "IsChatterProfileEnabled",
+      "IsKnowledgeEnabled",
+      "ShowArticleSummariesCustomerPortal",
+      "ShowArticleSummariesInternalApp",
+      "ShowArticleSummariesPartnerPortal",
+      "IsLiveAgentEnabled"
+    ],
+    "disabled": []
+  }
+}

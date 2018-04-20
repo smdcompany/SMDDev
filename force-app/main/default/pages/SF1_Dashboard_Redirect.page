@@ -1,0 +1,5 @@
+<apex:page showHeader="false" sidebar="false" docType="html-5.0" controller="SF1_Redirect_Controller" action="{!getDashboard}">
+
+    <apex:pageMessages />
+
+</apex:page>

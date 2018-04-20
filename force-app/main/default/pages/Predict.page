@@ -1,0 +1,25 @@
+<!--
+ - Created by sdykstra on 1/20/18.
+ -->
+
+<apex:page controller="VisionController" id="Predict">
+    <apex:form >
+    <apex:pageBlock >
+        <apex:image url="https://einstein.ai/images/generalimage.jpg">
+        </apex:image>
+        <br/>
+        <apex:repeat value="{!AccessToken}" var="accessToken">
+            Access Token:<apex:outputText value="{!accessToken}"/><br/>
+        </apex:repeat>
+        <br/>
+        <apex:repeat value="{!callVisionUrl}" var="prediction">
+            <apex:outputText value="{!prediction.label}"/>:<apex:outputText value="{!prediction.probability}"/><br/>
+        </apex:repeat>
+    </apex:pageBlock>
+        <!-- <apex:pageBlock > -->
+        <!--    <apex:repeat value="{!callVisionContent}" var="prediction"> -->
+        <!--        <apex:outputText value="{!prediction.label}" />:<apex:outputText value="{!prediction.probability}"/><br/> -->
+        <!--    </apex:repeat> -->
+        <!-- </apex:pageBlock> -->
+    </apex:form>
+</apex:page>

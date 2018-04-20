@@ -1,0 +1,22 @@
+<apex:page id="Start_Chatting">
+    <apex:slds />
+    <div class="slds-scope">
+        <h1>Let's start chatting ...</h1>
+        <br />
+        Click the big button to start a chat.
+        <br />
+
+        <img id="liveagent_button_online_5731N000000lVha" style="display: none; border: 0px none; cursor: pointer" onclick="liveagent.startChat('5731N000000lVha')" src="https://smddev-developer-edition.na78.force.com/resource/1519537208000/OnlineButton" /><img id="liveagent_button_offline_5731N000000lVha" style="display: none; border: 0px none; " src="https://smddev-developer-edition.na78.force.com/resource/1519537208000/OfflineButton" />
+        <script type="text/javascript">
+            if (!window._laq) { window._laq = []; }
+            window._laq.push(function(){liveagent.showWhenOnline('5731N000000lVha', document.getElementById('liveagent_button_online_5731N000000lVha'));
+                liveagent.showWhenOffline('5731N000000lVha', document.getElementById('liveagent_button_offline_5731N000000lVha'));
+            });
+        </script>
+
+        <script type='text/javascript' src='https://c.la1-c1-ord.salesforceliveagent.com/content/g/js/42.0/deployment.js'></script>
+        <script type='text/javascript'>
+            liveagent.init('https://d.la1-c1-ord.salesforceliveagent.com/chat', '5721N000000lanb', '00D1N000002sjhX');
+        </script>
+    </div>
+</apex:page>

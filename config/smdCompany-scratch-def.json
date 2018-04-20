@@ -1,0 +1,23 @@
+{
+  "orgName": "smdCompany",
+  "country": "US",
+  "username": "sdykstra@smdcomp.com",
+  "adminEmail": "sdykstra@bridgercomputing.com",
+  "edition": "Developer",
+  "features": "API;AuthorApex;Communities;ContractApprovals;CustomerSelfService;CustomApps;CustomTabs;ForceComPlatform;ServiceCloud;Sites",
+  "orgPreferences": {
+    "enabled": [
+      "ChatterEnabled",
+      "NetworksEnabled",
+      "S1DesktopEnabled",
+      "IsMultidayEventsEnabled",
+      "IsRecurringEventsEnabled",
+      "IsRecurringTasksEnabled",
+      "IsEntitlementsEnabled",
+      "IsIdeasEnabled",
+      "IsKnowledgeEnabled",
+      "IsLiveAgentEnabled"
+    ],
+    "disabled": []
+  }
+}

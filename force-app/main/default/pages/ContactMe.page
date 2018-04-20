@@ -1,0 +1,56 @@
+<apex:page id="ContactMe" showHeader="false" standardStylesheets="false" sideBar="false" applyBodyTag="false">
+    <html xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" lang="en">
+        <head>
+            <meta charset="utf-8" />
+            <meta http-equiv="x-ua-compatible" content="ie=edge" />
+            <title>Contact Us</title>
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+            <apex:slds />
+        </head>
+    <body>
+        <div class="slds-scope">
+            <p class="slds-text-heading_label slds-m-bottom--small">
+                Contact Us
+            </p>
+
+            <div class="slds-form slds-form--compound">
+                <fieldset class="slds-form-element">
+                    <legend class="slds-form-element__label slds-text-title_caps">Name</legend>
+                    <div class="slds-form-element__group">
+                        <div class="slds-form-element__row">
+                            <div class="slds-form-element slds-size_1-of-2">
+                                <label class="slds-form-element__label" for="firstname">First Name</label>
+                                <input type="text" id="firstname" class="slds-input"/>
+                            </div>
+                            <div class="slds-form-element slds-size_1-of-2">
+                                <label class="slds-form-element__label" for="lastname">Last Name</label>
+                                <input type="text" id="lastname" class="slds-input"/>
+                            </div>
+                        </div>
+                    </div>
+                </fieldset>
+                <fieldset class="slds-form-element">
+                    <legend class="slds-form-element__label slds-text-title_caps">Personal Information</legend>
+                    <div class="slds-form-element__group">
+                        <div class="slds-form-element__row">
+                            <div class="slds-form-element slds-size_1-of-2">
+                                <label class="slds-form-element__label" for="email">Email</label>
+                                <input type="text" id="email" class="slds-input"/>
+                            </div>
+                            <div class="slds-form-element slds-size_1-of-2">
+                                <label class="slds-form-element__label" for="phone">Phone Number</label>
+                                <input type="text" id="phone" class="slds-input"/>
+                            </div>
+                        </div>
+                    </div>
+                </fieldset>
+                <div class="slds-form-element">
+                    <button type="button" class="slds-button slds-button--brand">Submit</button>
+                </div>
+            </div>
+        </div>
+    </body>
+    </html>
+
+</apex:page>

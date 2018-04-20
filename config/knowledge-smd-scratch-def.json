@@ -1,0 +1,20 @@
+{
+  "orgName": "knowledge-smd",
+  "country": "US",
+  "username": "sdykstra@knowledge-smd.com",
+  "adminEmail": "sdykstra@bridgercomputing.com",
+  "edition": "Developer",
+  "features": "AuthorApex;Communities;CustomerSelfService;CustomApps;CustomTabs;ForceComPlatform;ServiceCloud;Sites",
+  "orgPreferences": {
+    "enabled": [
+      "ChatterEnabled",
+      "S1DesktopEnabled",
+      "IsChatterProfileEnabled",
+      "IsKnowledgeEnabled",
+      "ShowArticleSummariesCustomerPortal",
+      "ShowArticleSummariesInternalApp",
+      "ShowArticleSummariesPartnerPortal"
+    ],
+    "disabled": []
+  }
+}
