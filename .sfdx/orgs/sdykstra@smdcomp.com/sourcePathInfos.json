@@ -842,14 +842,13 @@
         {
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 2816,
-            "modifiedTime": 1520572472817,
-            "changeTime": 1520572472817,
-            "contentHash": "8287444912ffb0f5e952b087363995a0321d7215",
+            "size": 3008,
+            "modifiedTime": 1524538037540,
+            "changeTime": 1524460593117,
+            "contentHash": "3cafebdce11966afe4426297eceb5136f07bb3c4",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -1248,13 +1247,12 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/CaseManager.cls",
             "isDirectory": false,
             "size": 2340,
-            "modifiedTime": 1520572472806,
-            "changeTime": 1520572472816,
-            "contentHash": "663871c303725529b80bb876e3f0604b9e7de99b",
+            "modifiedTime": 1524199103971,
+            "changeTime": 1524199103986,
+            "contentHash": "3058e0c7c2c8286cbfd0241d574f9c6e7ca0da04",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -4485,15 +4483,15 @@
     [
         "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 34448,
             "modifiedTime": 1524110890705,
             "changeTime": 1524110890713,
-            "isWorkspace": false,
-            "contentHash": "d7570708d855ac884acfb1bb44fa1130073b73c2"
+            "contentHash": "d7570708d855ac884acfb1bb44fa1130073b73c2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -5444,14 +5442,13 @@
         {
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev",
             "isDirectory": true,
-            "size": 416,
-            "modifiedTime": 1523848542630,
-            "changeTime": 1523848542630,
-            "contentHash": "cb10565ffea9db2771645d5ccc2c3a4f43065a6d",
+            "size": 448,
+            "modifiedTime": 1524194454976,
+            "changeTime": 1524194454976,
+            "contentHash": "f317892befef2338b2f0ef2101d6874aa61f53b0",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -5555,6 +5552,84 @@
             "changeTime": 1524108605185,
             "contentHash": "4b605996d03ee86f96cff7293a5cae37e3a336be",
             "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/CaseManagerTest.cls",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/CaseManagerTest.cls",
+            "isDirectory": false,
+            "size": 3551,
+            "modifiedTime": 1524202126259,
+            "changeTime": 1524202126289,
+            "contentHash": "213eeeb0f72c3b637b0b4453d1b2e91ff1c01ce1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/CaseManagerTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/CaseManagerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1524199888887,
+            "changeTime": 1524199888910,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AccountManager.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AccountManager.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 412,
+            "modifiedTime": 1524538037509,
+            "changeTime": 1524538037540,
+            "contentHash": "6cf0c0b75b506de43115b4db21b883274ff44d36"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AccountManager.cls-meta.xml",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AccountManager.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1524453263811,
+            "changeTime": 1524453263840,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AccountManagerTest.cls",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AccountManagerTest.cls",
+            "isDirectory": false,
+            "size": 919,
+            "modifiedTime": 1524537595495,
+            "changeTime": 1524537595528,
+            "contentHash": "4d91a48b8f38a9fa943b59a882efca6878d2f8d2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AccountManagerTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AccountManagerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1524459634954,
+            "changeTime": 1524459634972,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
             "state": "u"
         }
     ]

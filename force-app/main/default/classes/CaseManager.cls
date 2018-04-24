@@ -32,7 +32,7 @@ global with sharing class CaseManager {
     }
 
     @HttpPut
-    global static ID upsertCase(String subject, String status, String origin, String priority, String Id){
+    global static ID upsertCase(String subject, String status, String origin, String priority, String id){
         Case thisCase = new Case(
                 Id=id,
                 Subject=subject,
