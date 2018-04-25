@@ -15,6 +15,14 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>AccountManager</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AccountManagerTest</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>AgentContributionArticleController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -64,6 +72,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>CaseManager</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>CaseManagerTest</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
@@ -184,6 +196,11 @@
     </classAccesses>
     <custom>false</custom>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Number_of_Contacts__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Broker__c.Email__c</field>
         <readable>false</readable>
@@ -232,11 +249,6 @@
         <editable>false</editable>
         <field>LeadAssociation__c.Lead_Name__c</field>
         <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Product2.Shirt__c</field>
-        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -531,6 +543,10 @@
         <apexPage>UnderConstruction</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
+    <tabVisibilities>
+        <tab>standard-Entitlement</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
@@ -559,6 +575,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ApiEnabled</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ApproveContract</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -878,6 +898,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ManageEntitlements</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ManageExchangeConfig</name>
     </userPermissions>
     <userPermissions>
@@ -955,6 +979,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ManageSearchPromotionRules</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ManageSelfService</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -1111,6 +1139,14 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewMyTeamsDashboards</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewPublicDashboards</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewPublicReports</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>

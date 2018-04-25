@@ -15,6 +15,14 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>AccountManager</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AccountManagerTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>AgentContributionArticleController</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -64,6 +72,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>CaseManager</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>CaseManagerTest</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -184,6 +196,11 @@
     </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Number_of_Contacts__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Broker__c.Email__c</field>
         <readable>false</readable>
@@ -232,11 +249,6 @@
         <editable>false</editable>
         <field>LeadAssociation__c.Lead_Name__c</field>
         <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Product2.Shirt__c</field>
-        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -477,6 +489,10 @@
         <apexPage>UnderConstruction</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
+    <tabVisibilities>
+        <tab>standard-Entitlement</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
