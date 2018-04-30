@@ -840,15 +840,15 @@
     [
         "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes",
             "isDirectory": true,
+            "size": 3264,
+            "modifiedTime": 1524890475911,
+            "changeTime": 1524705562058,
+            "contentHash": "2d1b783344630ef2f3cb05f091e3c1b4bca18811",
             "isMetadataFile": false,
-            "size": 3136,
-            "modifiedTime": 1524628379795,
-            "changeTime": 1524628379795,
-            "isWorkspace": false,
-            "contentHash": "e33ad8a71ff5eb0fb665a45eaec09f7e7b6e9f4f"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -2401,7 +2401,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/layouts",
             "isDirectory": true,
             "size": 384,
-            "modifiedTime": 1523855601718,
+            "modifiedTime": 1524633438732,
             "changeTime": 1523855601718,
             "contentHash": "a53c3b789d5fabd3c316ecd0fcd081e8fca4a410",
             "isMetadataFile": false,
@@ -2416,7 +2416,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "size": 9830,
-            "modifiedTime": 1524548385122,
+            "modifiedTime": 1524633438725,
             "changeTime": 1524548385122,
             "contentHash": "85ec3bbe64e42cd5d54367175f265f9b96a5577a",
             "isMetadataFile": true,
@@ -2429,7 +2429,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "size": 9782,
-            "modifiedTime": 1524548385103,
+            "modifiedTime": 1524633438725,
             "changeTime": 1524548385103,
             "contentHash": "e4f8893928d81b182f70a0aae9454a1e6011987c",
             "isMetadataFile": true,
@@ -2442,7 +2442,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "size": 9830,
-            "modifiedTime": 1524548385184,
+            "modifiedTime": 1524633438730,
             "changeTime": 1524548385184,
             "contentHash": "1bf564cff690fa3241098fc1f203441f5fcc1730",
             "isMetadataFile": true,
@@ -2455,7 +2455,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "size": 9782,
-            "modifiedTime": 1524548385154,
+            "modifiedTime": 1524633438733,
             "changeTime": 1524548385154,
             "contentHash": "28a49425b0b70bf140278548c4e06519508aef2a",
             "isMetadataFile": true,
@@ -2678,7 +2678,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
             "size": 128,
-            "modifiedTime": 1524548385073,
+            "modifiedTime": 1524633438735,
             "changeTime": 1524548385073,
             "contentHash": "35007f33454dd4e72965848d306881d26cb23af4",
             "isMetadataFile": false,
@@ -4461,7 +4461,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/profiles",
             "isDirectory": true,
             "size": 224,
-            "modifiedTime": 1524110890713,
+            "modifiedTime": 1524633438757,
             "changeTime": 1524106456092,
             "contentHash": "5f1017bb34c5b3a4fe6548f3d80104b577ddff0d",
             "isMetadataFile": false,
@@ -4476,7 +4476,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "size": 35532,
-            "modifiedTime": 1524548385380,
+            "modifiedTime": 1524633438740,
             "changeTime": 1524548385380,
             "contentHash": "06d1dc5778972ef1254cbc031de41586487d1088",
             "isMetadataFile": true,
@@ -4489,7 +4489,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/profiles/Contact Me Profile.profile-meta.xml",
             "isDirectory": false,
             "size": 21018,
-            "modifiedTime": 1524548385245,
+            "modifiedTime": 1524633438742,
             "changeTime": 1524548385245,
             "contentHash": "3cbc57e061350247e8d7dfa042ac18f7a9b37cc4",
             "isMetadataFile": true,
@@ -4502,7 +4502,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "size": 20085,
-            "modifiedTime": 1524548385338,
+            "modifiedTime": 1524633438750,
             "changeTime": 1524548385338,
             "contentHash": "0c11b02793c46629a1c45e56c22a7b46397e0a99",
             "isMetadataFile": true,
@@ -4515,7 +4515,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "size": 20081,
-            "modifiedTime": 1524548385225,
+            "modifiedTime": 1524633438751,
             "changeTime": 1524548385225,
             "contentHash": "4c6978372f6c6856667f7cc6c913fb22b7842a89",
             "isMetadataFile": true,
@@ -4528,7 +4528,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "size": 20537,
-            "modifiedTime": 1524548385295,
+            "modifiedTime": 1524633438758,
             "changeTime": 1524548385295,
             "contentHash": "ef857a945ef273be3cf964ffeeb54b3901b57fa5",
             "isMetadataFile": true,
@@ -5620,7 +5620,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/objects/Account/fields/Number_of_Contacts__c.field-meta.xml",
             "isDirectory": false,
             "size": 416,
-            "modifiedTime": 1524548385073,
+            "modifiedTime": 1524633438735,
             "changeTime": 1524548385073,
             "contentHash": "5c8246ef94e6c903fbbc5c2dec6e5eb8c570e339",
             "isMetadataFile": true,
@@ -5633,7 +5633,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AccountProcessor.cls",
             "isDirectory": false,
             "size": 426,
-            "modifiedTime": 1524626357531,
+            "modifiedTime": 1524633438693,
             "changeTime": 1524626357557,
             "contentHash": "077e164abf07b998f6eb9881becbb92ecfd72e79",
             "isMetadataFile": false,
@@ -5646,7 +5646,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AccountProcessor.cls-meta.xml",
             "isDirectory": false,
             "size": 174,
-            "modifiedTime": 1524622449775,
+            "modifiedTime": 1524633438702,
             "changeTime": 1524622449848,
             "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
             "isMetadataFile": true,
@@ -5656,27 +5656,79 @@
     [
         "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AccountProcessorTest.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AccountProcessorTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 737,
-            "modifiedTime": 1524628379789,
+            "modifiedTime": 1524633438707,
             "changeTime": 1524628379795,
-            "contentHash": "8b8b1ba2afa2ed6261b9f42a1b4572182beb765f"
+            "contentHash": "8b8b1ba2afa2ed6261b9f42a1b4572182beb765f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AccountProcessorTest.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AccountProcessorTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1524626798710,
+            "modifiedTime": 1524633438714,
             "changeTime": 1524626798724,
-            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/LeadProcessor.cls",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/LeadProcessor.cls",
+            "isDirectory": false,
+            "size": 571,
+            "modifiedTime": 1524705562040,
+            "changeTime": 1524705562058,
+            "contentHash": "6cad4715e7e93b2debbd04e012b39db1f5c1da31",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/LeadProcessor.cls-meta.xml",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/LeadProcessor.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1524704907458,
+            "changeTime": 1524704907489,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/LeadProcessorTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/LeadProcessorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 618,
+            "modifiedTime": 1524890475878,
+            "changeTime": 1524890475910,
+            "contentHash": "dab9dcd9313c7685c7cd4d79eb9085edb3c70a99"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/LeadProcessorTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/LeadProcessorTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1524705456234,
+            "changeTime": 1524705456250,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
