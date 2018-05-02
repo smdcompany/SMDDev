@@ -92,14 +92,12 @@
         {
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 416,
-            "modifiedTime": 1517896905486,
-            "changeTime": 1517896905486,
-            "contentHash": "0bc6206d0889b3652bce9afd3625cd494875931a",
+            "size": 448,
+            "modifiedTime": 1525148414385,
+            "changeTime": 1525148414385,
+            "contentHash": "6a6cf958f5b3fbc8930383b4090073acd61a0068",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -842,10 +840,10 @@
         {
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 3264,
-            "modifiedTime": 1524890475911,
-            "changeTime": 1524705562058,
-            "contentHash": "2d1b783344630ef2f3cb05f091e3c1b4bca18811",
+            "size": 3392,
+            "modifiedTime": 1525156669863,
+            "changeTime": 1525155443981,
+            "contentHash": "58f4fd448780a11a016253c538e899a818b3c85f",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -5685,7 +5683,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/LeadProcessor.cls",
             "isDirectory": false,
             "size": 571,
-            "modifiedTime": 1524705562040,
+            "modifiedTime": 1525096187169,
             "changeTime": 1524705562058,
             "contentHash": "6cad4715e7e93b2debbd04e012b39db1f5c1da31",
             "isMetadataFile": false,
@@ -5698,7 +5696,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/LeadProcessor.cls-meta.xml",
             "isDirectory": false,
             "size": 174,
-            "modifiedTime": 1524704907458,
+            "modifiedTime": 1525096187169,
             "changeTime": 1524704907489,
             "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
             "isMetadataFile": true,
@@ -5708,14 +5706,14 @@
     [
         "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/LeadProcessorTest.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/LeadProcessorTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 618,
-            "modifiedTime": 1524890475878,
+            "modifiedTime": 1525096187198,
             "changeTime": 1524890475910,
-            "contentHash": "dab9dcd9313c7685c7cd4d79eb9085edb3c70a99"
+            "contentHash": "dab9dcd9313c7685c7cd4d79eb9085edb3c70a99",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -5724,8 +5722,99 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/LeadProcessorTest.cls-meta.xml",
             "isDirectory": false,
             "size": 174,
-            "modifiedTime": 1524705456234,
+            "modifiedTime": 1525096187230,
             "changeTime": 1524705456250,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/aura/harnessApp/harnessApp.app-meta.xml",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/aura/harnessApp/harnessApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1525148414386,
+            "changeTime": 1525148414386,
+            "contentHash": "cb1cace4872bcf8918663bbc3a725d329863ffca",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/aura/harnessApp/harnessApp.app",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/aura/harnessApp/harnessApp.app",
+            "isDirectory": false,
+            "size": 41,
+            "modifiedTime": 1525148414392,
+            "changeTime": 1525148414392,
+            "contentHash": "72ff854143dbeb12896510b48df55e98b9e00ec3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/aura/harnessApp",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/aura/harnessApp",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1525148414392,
+            "changeTime": 1525148414392,
+            "contentHash": "2a07cdf00026e3d67e3989613bda1c0a13da4082",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AddPrimaryContact.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AddPrimaryContact.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 715,
+            "modifiedTime": 1525156669832,
+            "changeTime": 1525156669863,
+            "contentHash": "d0d51490bc3d9c2c5400dc674b852b73d633589a"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AddPrimaryContact.cls-meta.xml",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AddPrimaryContact.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1525148466210,
+            "changeTime": 1525148466227,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AddPrimaryContactTest.cls",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AddPrimaryContactTest.cls",
+            "isDirectory": false,
+            "size": 881,
+            "modifiedTime": 1525156519348,
+            "changeTime": 1525156519354,
+            "contentHash": "3ea23503297550fb99befe9aed329a0ac0977196",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AddPrimaryContactTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/SMDDev/force-app/main/default/classes/AddPrimaryContactTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1525153582406,
+            "changeTime": 1525153582427,
             "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
             "isMetadataFile": true,
             "state": "u"
