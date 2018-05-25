@@ -13,12 +13,10 @@ public class AddPrimaryContact implements Queueable{
         List<Contact> contacts = new List<Contact>();
 
         for(Account account :accounts){
-            Contact cont = contact.clone(false,true);
+            Contact cont = contact.clone(false,false,false,false);
             cont.AccountId = account.Id;
             contacts.add(contact);
         }
-        if (contacts.size() > 0){
-            insert contacts;
-        }
+        insert contacts;
     }
 }
